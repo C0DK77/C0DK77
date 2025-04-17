@@ -6,8 +6,8 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/ton-github" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" alt="GitHub" width="40" height="40"/>
+</a>
 </p>
 
 <p align="center">
