@@ -4,10 +4,6 @@
   <a href="https://fr.linkedin.com/in/corentin-desjars-766a18157" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/C0DK77" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" alt="GitHub" width="40" height="40"/>
-</a>
 </p>
 
 <p align="center">
