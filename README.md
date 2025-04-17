@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+<h1 align="center">Hi, I'm Aymeric!</h1>
+
+<div align="center">
+  <p align="center">
+    🐦 <a href="https://twitter.com/aymericroucher">Follow me on X</a> • 
+    🤗 <a href="hf.co/m-ric">Hugging Face</a> • 
+    💻 <a href="https://aymeric-roucher.github.io">Blog</a> • 
+    <a href="https://linkedin.com/in/a-roucher">LinkedIn</a>
+  </p>
+</div>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Engineer;At+Hugging+Face;Working+on+cool+things;Open+source+🤗)](https://git.io/typing-svg)
+  
 <!--
 **C0DK77/C0DK77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
