@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-<h1 align="center">Hi, I'm Aymeric!</h1>
+<h1 align="center">Hi, I'm Corentin!</h1>
 
 <div align="center">
   <p align="center">
     🐦 <a href="https://twitter.com/aymericroucher">Follow me on X</a> • 
     🤗 <a href="hf.co/m-ric">Hugging Face</a> • 
     💻 <a href="https://aymeric-roucher.github.io">Blog</a> • 
-    <a href="https://linkedin.com/in/a-roucher">LinkedIn</a>
+    <a href="https://linkedin.com/in/corentin-desjars-7766a18157">LinkedIn</a>
   </p>
 </div>
 <br/>
