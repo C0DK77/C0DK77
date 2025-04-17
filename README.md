@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Corentin !</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ton-nom-utilisateur/" target="_blank">
+  <a href="https://fr.linkedin.com/in/corentin-desjars-766a18157" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/ton-github" target="_blank">
+  <a href="https://github.com/C0DK77" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" alt="GitHub" width="40" height="40"/>
 </a>
 </p>
